@@ -1,3 +1,6 @@
+# Copyright (c) 2025 ZeinHaffei
+# Licensed under the MIT License
+
 import os
 from datetime import datetime
 
