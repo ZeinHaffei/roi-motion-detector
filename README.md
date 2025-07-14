@@ -1,4 +1,4 @@
-# Author: Zein Al-Haffei (https://github.com/ZeinHaffei)
+# Author: Zein Al Haffei (https://github.com/ZeinHaffei)
 # License: MIT
 
 # ROI Motion Detector
@@ -114,7 +114,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/ZeinHaffei)
+- [Zein AL Haffei](https://github.com/ZeinHaffei)
 
 ---
 
