@@ -25,35 +25,35 @@ Installation
 
 2. Install dependencies:
 
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
    or, if you use all background subtractors:
    
-     pip install opencv-contrib-python numpy keyboard
+   - pip install opencv-contrib-python numpy keyboard
 
 Usage
 
 Run from the command line:
 
-  python ZoneWatch.py <input_type> <input_path> <subtractor_type> [--threshold INT] [--define_roi_manually | --roi_points X1 Y1 X2 Y2 ...]
+- python ZoneWatch.py <input_type> <input_path> <subtractor_type> [--threshold INT] [--define_roi_manually | --roi_points X1 Y1 X2 Y2 ...]
 
 
 Arguments
   1. input_type:
 
-    video (video file)
+   - video (video file)
 
-    camera (live webcam, specify camera index, e.g., 0)
+   - camera (live webcam, specify camera index, e.g., 0)
 
-    image_sequence (folder of images)
+   - image_sequence (folder of images)
 
   2.input_path:
 
-    Path to video file, camera index, or image folder path
+   Path to video file, camera index, or image folder path
 
   3. subtractor_type:
 
-    KNN, MOG, MOG2, or GMG
+   - KNN, MOG, MOG2, or GMG
 
   4. --threshold (optional):
 
@@ -61,11 +61,11 @@ Arguments
 
   6. --define_roi_manually (optional):
 
-    Select ROI using the mouse (press Enter to confirm)
+   - Select ROI using the mouse (press Enter to confirm)
 
   7. --roi_points (optional):
 
-    Coordinates of ROI polygon (e.g. --roi_points 10 10 100 10 100 100 10 100)
+   - Coordinates of ROI polygon (e.g. --roi_points 10 10 100 10 100 100 10 100)
 
 
 
