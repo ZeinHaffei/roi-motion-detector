@@ -1,3 +1,6 @@
+# Author: Zein Al-Haffei (https://github.com/ZeinHaffei)
+# License: MIT
+
 # ROI Motion Detector
 
 A modular Python tool for **background subtraction, motion detection, and region-of-interest (ROI) selection** in video streams, camera feeds, or image sequences. Automatically records video segments only when significant movement is detected within a user-defined region.
@@ -111,7 +114,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/ZeinHaffei)
 
 ---
 
