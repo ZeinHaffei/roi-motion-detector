@@ -23,7 +23,7 @@ A modular Python tool for **background subtraction, motion detection, and region
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/your-username/roi-motion-detector.git
+   git clone https://github.com/ZeinHaffei/roi-motion-detector.git
    cd roi-motion-detector
    ```
 
